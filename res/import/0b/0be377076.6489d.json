@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"激光发射器","texture":"beJLXLv1hFIY78Pw6TrBTC","rect":[0,0,43,30],"offset":[0,0],"originalSize":[43,30],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"激光","texture":"36yQ6QWEVHlpuZO8zNE1wy","rect":[0,0,8,4],"offset":[0,0],"originalSize":[8,4],"capInsets":[0,0,0,0]}}]
